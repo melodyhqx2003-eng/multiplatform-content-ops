@@ -1,0 +1,2 @@
+record_id,platform,account,published_at,content_type,topic,title,primary_goal,cover_angle,opening_angle,service_placement,views_or_clicks,likes,favorites,comments,shares,profile_visits,inquiries,qualified_inquiries,orders,revenue,data_window,notes
+xhs-20260811-001,xiaohongshu,麦麦的AI学习日记,2026-08-11 09:14,service_problem,GPT登录验证,GPT登录验证遇到问题？可以联系我,service_inquiry,直接突出GPT登录验证遇到问题可以找我,服务型入口,标题和内容均较直接,7,1,0,0,0,,,0,,0,,约发布后数小时,"早期表现差；只能作为单篇失败样本，不能据此判断限流或确定因果"
